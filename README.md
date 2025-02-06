@@ -16,13 +16,13 @@ Um tema vibrante inspirado no lendário Satoru Gojo! Com tons de azul intenso, c
 
 | Elemento        | Cor          | Hexadecimal |
 | --------------- | ------------ | ----------- |
-| Plano de fundo  | Transparente | `#0D0D0D`   |
-| Texto principal | Azul         | `#00FF00`   |
-| Destaques       | Branco       | `#FFD700`   |
-| Comentários     | Amarelo Esc  | `#7FFF00`   |
-| Cor Principal   | Azul         | `#006400`   |
-| Seleção 01      | Azul Neon    | `#6823ff`   |
-| Seleção 02      | Azul Neon    | `#6823ff52` |
+| Plano de fundo  | Transparente | `#ffffff00` |
+| Texto principal | Azul         | `#1364ff`   |
+| Destaques       | Branco       | `#ffffff`   |
+| Comentários     | Amarelo Esc  | `#78771b`   |
+| Cor Principal   | Azul         | `#1364ff`   |
+| Seleção 01      | Azul Neon    | `#0040ff`   |
+| Seleção 02      | Azul Neon    | `#0040ff`   |
 
 ---
 
@@ -54,3 +54,5 @@ Sinta-se à vontade para sugerir melhorias ou compartilhar sua experiência! Abr
 ## ⚡ Criado por
 
 Desenvolvido por [Gustavo Almeida](https://github.com/dev-alm), inspirado no mais forte! 💙
+
+_OBS:_ O wallpaper presente na prévia do tema foi aplicado de forma externa ao tema.
