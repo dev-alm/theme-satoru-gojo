@@ -1,12 +1,12 @@
 {
-  "name": "broly-theme",
-  "version": "0.0.7",
-  "icon": "assets/broly.png",
+  "name": "satoru-gojo-theme",
+  "version": "0.0.1",
+  "icon": "assets/Gojo-Satoru.png",
   "keywords": [
-    "broly",
-    "Dragon ball",
-    "green",
-    "verde"
+    "satoru",
+    "jujutsu",
+    "blue",
+    "gojo"
   ],
   "publisher": "dev-alm",
   "engines": {
@@ -18,9 +18,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Broly Theme",
+        "label": "Satoru Gojo Theme",
         "uiTheme": "vs-dark",
-        "path": "./theme/broly-theme.json"
+        "path": "./theme/satoru-gojo-theme.json"
       }
     ]
   },
@@ -28,11 +28,11 @@
     "package": "vsce package --no-yarn",
     "publish": "vsce package --no-yarn"
   },
-  "description": "Tema do Broly com as principais cores do personagem",
-  "displayName": "Broly-theme",
+  "description": "Tema do Satoru Gojo com as principais cores do personagem",
+  "displayName": "Satoru-Gojo-theme",
   "license": "MIT",
-  "baseContentUrl": "https://github.com/dev-alm/tema-broly-vscode",
-  "baseImagesUrl": "https://github.com/dev-alm/tema-broly-vscode/blob/main/imagens",
+  "baseContentUrl": "https://github.com/dev-alm/theme-satoru-gojo",
+  "baseImagesUrl": "https://github.com/dev-alm/theme-satoru-gojo/blob/main/imagens",
   "dependencies": {
     "vsce": "^2.15.0"
   }

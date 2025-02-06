@@ -1,22 +1,14 @@
-# **Broly Theme - VS Code**
+# 💙 Gojo Theme - VS Code
 
-🔥 **Traga o poder de Broly para o seu editor!** 🔥
-
-O **Broly Theme** para Visual Studio Code foi inspirado nas icônicas cores do lendário personagem **Broly**, da franquia Dragon Ball.  
-Este tema traz tons de **verde vibrante**, **preto intenso** e **dourado**, representando a energia avassaladora e a força imparável do personagem.  
-Ideal para quem busca um ambiente de codificação poderoso, moderno e cheio de estilo.
-
----
+Um tema vibrante inspirado no lendário Satoru Gojo! Com tons de azul intenso, contrastes bem equilibrados e detalhes luminosos, este tema traz a essência do Ilimitado para seu editor.
 
 ## **📸 Prévia do Tema**
 
 ### **Editor**
 
-![Editor Preview](https://raw.githubusercontent.com/dev-alm/tema-broly-vscode/main/assets/img01.png)
+![Editor Preview](https://raw.githubusercontent.com/dev-alm/theme-satoru-gojo/main/assets/img01.png)
 
-### **Paleta de Cores**
-
-![Color Palette](https://raw.githubusercontent.com/dev-alm/tema-broly-vscode/main/assets/img02.png)
+![Color Palette](https://raw.githubusercontent.com/dev-alm/theme-satoru-gojo/main/assets/img02.png)
 
 ---
 
@@ -24,28 +16,41 @@ Ideal para quem busca um ambiente de codificação poderoso, moderno e cheio de 
 
 | Elemento        | Cor          | Hexadecimal |
 | --------------- | ------------ | ----------- |
-| Plano de fundo  | Preto        | `#0D0D0D`   |
-| Texto principal | Verde Neon   | `#00FF00`   |
-| Destaques       | Dourado      | `#FFD700`   |
-| Comentários     | Verde Suave  | `#7FFF00`   |
-| Cor Principal   | Verde Escuro | `#006400`   |
-| Seleção 01      | Roxo Escuro  | `#6823ff`   |
-| Seleção 02      | Roxo Suave   | `#6823ff52` |
-| Fundo Altern.   | Azul Escuro  | `#1b0056`   |
+| Plano de fundo  | Transparente | `#0D0D0D`   |
+| Texto principal | Azul         | `#00FF00`   |
+| Destaques       | Branco       | `#FFD700`   |
+| Comentários     | Amarelo Esc  | `#7FFF00`   |
+| Cor Principal   | Azul         | `#006400`   |
+| Seleção 01      | Azul Neon    | `#6823ff`   |
+| Seleção 02      | Azul Neon    | `#6823ff52` |
 
 ---
 
-## **📦 Instalação**
+## 🚀 Instalação
 
 Você pode instalar o tema diretamente pela [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/vscode).
 
 1. Abra o **VS Code**
 2. Vá para a aba de **Extensões** (`Ctrl + Shift + X`)
-3. Busque por **"Broly Theme"**
-4. Clique em **Instalar**
+3. Busque por **"Satoru Gojo Theme"**
+4. Clique em **Instalar** 🩵🔥
 
 **Ou instale via linha de comando:**
 
 ```sh
-code --install-extension dev-alm.broly-theme
+code --install-extension dev-alm.satotu-gojo-theme
 ```
+
+## 💡 Dicas
+
+- Para combinar com o tema, use a fonte **Fira Code** e ative _ligaduras de programação_.
+- Recomendado para quem gosta de códigos estilosos e inspirados em _Jujutsu Kaisen_.
+- Ou ainda melhor, você pode utilizar um wallpaper no seu VS Code do Satoru para ficar ainda mais _bonito_.
+
+## 🌀 Contribuições
+
+Sinta-se à vontade para sugerir melhorias ou compartilhar sua experiência! Abra uma _issue_ ou faça um _pull request_.
+
+## ⚡ Criado por
+
+Desenvolvido por [Gustavo Almeida](https://github.com/dev-alm), inspirado no mais forte! 💙
