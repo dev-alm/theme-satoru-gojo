@@ -18,9 +18,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Satoru Gojo Theme",
+        "label": "Satoru Gojo blue",
         "uiTheme": "vs-dark",
         "path": "./theme/satoru-gojo-theme.json"
+      },
+      {
+        "label": "Satoru Gojo White",
+        "uiTheme": "vs-dark",
+        "path": "./theme/satoru-gojo-white-theme.json"
       }
     ]
   },
