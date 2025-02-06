@@ -38,7 +38,7 @@ Você pode instalar o tema diretamente pela [Visual Studio Code Marketplace](htt
 **Ou instale via linha de comando:**
 
 ```sh
-code --install-extension dev-alm.satotu-gojo-theme
+code --install-extension dev-alm.satoru-gojo-theme
 ```
 
 ## 💡 Dicas
@@ -55,4 +55,5 @@ Sinta-se à vontade para sugerir melhorias ou compartilhar sua experiência! Abr
 
 Desenvolvido por [Gustavo Almeida](https://github.com/dev-alm), inspirado no mais forte! 💙
 
-_OBS:_ O wallpaper presente na prévia do tema foi aplicado de forma externa ao tema.
+_OBS:_ Para que o tema alcance 100% do seu aspecto visual é necessário que seja aplicado o wallpaper de forma externa
+e que seja aplicado transparência no VS Code. O resultado é incrível!
