@@ -1,6 +1,6 @@
 {
   "name": "satoru-gojo-theme",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "icon": "assets/Gojo-Satoru.png",
   "keywords": [
     "satoru",
@@ -20,12 +20,12 @@
       {
         "label": "Satoru Gojo blue",
         "uiTheme": "vs-dark",
-        "path": "./theme/satoru-gojo-theme.json"
+        "path": "./theme/satoru-gojo-blue.json"
       },
       {
         "label": "Satoru Gojo White",
         "uiTheme": "vs-dark",
-        "path": "./theme/satoru-gojo-white-theme.json"
+        "path": "./theme/satoru-gojo-white.json"
       }
     ]
   },
