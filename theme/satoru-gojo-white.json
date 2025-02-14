@@ -2094,15 +2094,8 @@
         }
       },
       {
-        "name": "Flow Control Keywords",
-        "scope": ["keyword.control.flow", "keyword.control.flow.else"],
-        "settings": {
-          "foreground": "#1affea"
-        }
-      },
-      {
         "name": "Loop and Return Keywords",
-        "scope": ["keyword.control.loop", "keyword.control"],
+        "scope": ["keyword.control.flow.js", "keyword.control.return.js"],
         "settings": {
           "foreground": "#e461ff"
         }
@@ -2115,23 +2108,33 @@
       },
       {
         "scope": [
-          "meta.function-call.js queryselector",
-          "meta.function-call.js queryselectorall"
+          "support.function.dom.js",
+          "meta.method-call.js",
+          "entity.name.function.js"
         ],
         "settings": {
-          "foreground": "#c9b300"
+          "foreground": "#a8c000"
         }
       },
       {
-        "scope": ["meta.function-call.js punctuation.section.paranthesis"],
+        "scope": [
+          "punctuation.definition.parameters.begin.js",
+          "punctuation.definition.parameters.end.js"
+        ],
         "settings": {
-          "foreground": "#f7ff00"
+          "foreground": "#d3ff00"
         }
       },
       {
-        "scope": "meta.function-call.js punctuation.section.paranthesis",
+        "scope": ["support.function.console.js"],
         "settings": {
-          "foreground": "#f7ff00"
+          "foreground": "#dfe600"
+        }
+      },
+      {
+        "scope": ["variable.other.object.js"],
+        "settings": {
+          "foreground": "#ffffff"
         }
       }
     ]
