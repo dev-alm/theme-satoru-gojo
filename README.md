@@ -12,7 +12,7 @@ Um tema vibrante inspirado no lendário Satoru Gojo! Com tons de azul intenso, c
 
 ---
 
-## **🎨 Paleta de Cores Inspirada em Broly**
+## **🎨 Paleta de Cores Inspirada em Satoru Gojo**
 
 | Elemento        | Cor          | Hexadecimal |
 | --------------- | ------------ | ----------- |
