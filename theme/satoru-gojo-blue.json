@@ -21,55 +21,7 @@
         "foreground": "#8c8c8c"
       }
     },
-    {
-      "name": "HTML Tags",
-      "scope": "entity.name.tag",
-      "settings": {
-        "foreground": "#ff6347"
-      }
-    },
-    {
-      "name": "HTML Content",
-      "scope": "markup.raw",
-      "settings": {
-        "foreground": "#a7a7a7"
-      }
-    },
-    {
-      "name": "Flow Control Keywords",
-      "scope": ["keyword.control.flow", "keyword.control.flow.else"],
-      "settings": {
-        "foreground": "#00f3ff"
-      }
-    },
-    {
-      "name": "Loop and Return Keywords",
-      "scope": ["keyword.control.loop", "keyword.control"],
-      "settings": {
-        "foreground": "#d335ff"
-      }
-    },
-    {
-      "name": "Console Log Method",
-      "scope": "support.method.console",
-      "settings": {
-        "foreground": "#a7a7a7"
-      }
-    },
-    {
-      "name": "DOM Query Methods",
-      "scope": "support.function.dom",
-      "settings": {
-        "foreground": "#a7a7a7"
-      }
-    },
-    {
-      "name": "Variable Declarations",
-      "scope": "storage.type.js",
-      "settings": {
-        "foreground": "#61ff00"
-      }
-    },
+
     {
       "name": "haskell variable generic-type",
       "scope": "variable.other.generic-type.haskell",
@@ -2059,5 +2011,83 @@
     "editorGutter.commentRangeForeground": "#5476ff",
     "debugExceptionWidget.background": "#000000",
     "debugExceptionWidget.border": "#5476ff"
+  },
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "meta.function-call.js console.log",
+        "settings": {
+          "foreground": "#dfe600"
+        }
+      },
+      {
+        "scope": "variable.other.local.js console",
+        "settings": {
+          "foreground": "#ffffff"
+        }
+      },
+      {
+        "name": "Variable Declarations",
+        "scope": "storage.type.js",
+        "settings": {
+          "foreground": "#3ea300"
+        }
+      },
+      {
+        "name": "HTML Tags",
+        "scope": "entity.name.tag",
+        "settings": {
+          "foreground": "#ff6347"
+        }
+      },
+      {
+        "name": "HTML Content",
+        "scope": "text.html.basic",
+        "settings": {
+          "foreground": "#00ff00"
+        }
+      },
+      {
+        "name": "Flow Control Keywords",
+        "scope": ["keyword.control.flow", "keyword.control.flow.else"],
+        "settings": {
+          "foreground": "#1affea"
+        }
+      },
+      {
+        "name": "Loop and Return Keywords",
+        "scope": ["keyword.control.loop", "keyword.control"],
+        "settings": {
+          "foreground": "#e461ff"
+        }
+      },
+      {
+        "scope": ["variable.language.js document"],
+        "settings": {
+          "foreground": "#ffffff"
+        }
+      },
+      {
+        "scope": [
+          "meta.function-call.js queryselector",
+          "meta.function-call.js queryselectorall"
+        ],
+        "settings": {
+          "foreground": "#ff2a8e"
+        }
+      },
+      {
+        "scope": ["meta.function-call.js punctuation.section.paranthesis"],
+        "settings": {
+          "foreground": "#c9b300"
+        }
+      },
+      {
+        "scope": "meta.function-call.js punctuation.section.paranthesis",
+        "settings": {
+          "foreground": "#f7ff00"
+        }
+      }
+    ]
   }
 }

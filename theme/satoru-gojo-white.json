@@ -2057,5 +2057,83 @@
     "editorGutter.commentRangeForeground": "#0040fff9",
     "debugExceptionWidget.background": "#000000",
     "debugExceptionWidget.border": "#0040fff9"
+  },
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "meta.function-call.js console.log",
+        "settings": {
+          "foreground": "#dfe600"
+        }
+      },
+      {
+        "scope": "variable.other.local.js console",
+        "settings": {
+          "foreground": "#ffffff"
+        }
+      },
+      {
+        "name": "Variable Declarations",
+        "scope": "storage.type.js",
+        "settings": {
+          "foreground": "#3ea300"
+        }
+      },
+      {
+        "name": "HTML Tags",
+        "scope": "entity.name.tag",
+        "settings": {
+          "foreground": "#ff6347"
+        }
+      },
+      {
+        "name": "HTML Content",
+        "scope": "text.html.basic",
+        "settings": {
+          "foreground": "#00ff00"
+        }
+      },
+      {
+        "name": "Flow Control Keywords",
+        "scope": ["keyword.control.flow", "keyword.control.flow.else"],
+        "settings": {
+          "foreground": "#1affea"
+        }
+      },
+      {
+        "name": "Loop and Return Keywords",
+        "scope": ["keyword.control.loop", "keyword.control"],
+        "settings": {
+          "foreground": "#e461ff"
+        }
+      },
+      {
+        "scope": ["variable.language.js document"],
+        "settings": {
+          "foreground": "#ffffff"
+        }
+      },
+      {
+        "scope": [
+          "meta.function-call.js queryselector",
+          "meta.function-call.js queryselectorall"
+        ],
+        "settings": {
+          "foreground": "#c9b300"
+        }
+      },
+      {
+        "scope": ["meta.function-call.js punctuation.section.paranthesis"],
+        "settings": {
+          "foreground": "#f7ff00"
+        }
+      },
+      {
+        "scope": "meta.function-call.js punctuation.section.paranthesis",
+        "settings": {
+          "foreground": "#f7ff00"
+        }
+      }
+    ]
   }
 }
