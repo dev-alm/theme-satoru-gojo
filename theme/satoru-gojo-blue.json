@@ -15,6 +15,18 @@
   },
   "tokenColors": [
     {
+      "scope": "variable.other.readwrite.js",
+      "settings": {
+        "foreground": "#00F2FF"
+      }
+    },
+    {
+      "scope": "variable.parameter",
+      "settings": {
+        "foreground": "#00F2FF"
+      }
+    },
+    {
       "name": "HTML ID Atributes",
       "scope": "meta.attribute.id.html",
       "settings": {

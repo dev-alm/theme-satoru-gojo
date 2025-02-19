@@ -15,7 +15,7 @@
   },
   "tokenColors": [
     {
-      "name":  "HTML ID Atributes",
+      "name": "HTML ID Atributes",
       "scope": "meta.attribute.id.html",
       "settings": {
         "foreground": "#1AFF00"
@@ -26,6 +26,18 @@
       "scope": "text.html.derivative",
       "settings": {
         "foreground": "#E5F0E5"
+      }
+    },
+    {
+      "scope": "variable.other.readwrite.js",
+      "settings": {
+        "foreground": "#00F2FF"
+      }
+    },
+    {
+      "scope": "variable.parameter",
+      "settings": {
+        "foreground": "#00F2FF"
       }
     },
     {
